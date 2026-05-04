@@ -1,0 +1,745 @@
+﻿days,hours,vehicle_count,average_speed,congestion_level,weather_condition,traffic_rule_violation
+1,0,269,43.34272105,Low,Cloudy,Others
+1,1,440,20.55562356,High,Cloudy,Direction Violation
+1,2,212,53.17003834,Low,Foggy,Signal Violation
+1,3,488,30.06530121,Medium,Rainy,Signal Violation
+1,4,269,24.62575455,Medium,Foggy,Signal Violation
+1,5,319,17.61647947,High,Cloudy,Speed Violation
+1,6,169,23.30840063,Low,Rainy,Direction Violation
+1,7,443,11.10134606,High,Foggy,Signal Violation
+1,8,385,39.16287462,Medium,Foggy,Signal Violation
+1,9,449,52.11153732,Low,Clear,Direction Violation
+1,10,231,37.44902247,Medium,Foggy,Signal Violation
+1,11,155,20.9636981,Low,Cloudy,Signal Violation
+1,12,266,11.68345891,Medium,Foggy,Serious Violation
+1,13,254,20.73140366,Medium,Rainy,Speed Violation
+1,14,119,30.8060714,Low,Foggy,Direction Violation
+1,15,93,47.98057143,Low,Clear,Signal Violation
+1,16,378,19.39214263,High,Rainy,Serious Violation
+1,17,350,45.98957267,Low,Rainy,Others
+1,18,277,53.34667342,Low,Clear,Direction Violation
+1,19,233,32.69734241,Medium,Cloudy,Serious Violation
+1,20,156,51.07159958,Low,Rainy,Serious Violation
+1,21,133,37.7328674,Low,Cloudy,Serious Violation
+1,22,387,41.85454185,Low,Rainy,Signal Violation
+1,23,299,36.31392302,Medium,Rainy,Others
+2,0,412,33.15863584,Medium,Cloudy,Speed Violation
+2,1,490,21.73267209,High,Rainy,Direction Violation
+2,2,70,25.15970297,Low,Cloudy,Serious Violation
+2,3,245,24.49850595,Medium,Clear,Signal Violation
+2,4,227,38.16444655,Medium,Cloudy,Others
+2,5,466,15.99768465,High,Clear,Others
+2,6,56,55.83958454,Low,Rainy,Others
+2,7,119,46.03275726,Low,Cloudy,Serious Violation
+2,8,176,30.07228155,Low,Rainy,Others
+2,9,448,17.93120723,High,Cloudy,Serious Violation
+2,10,209,54.09960849,Low,Clear,Speed Violation
+2,11,297,51.18890451,Low,Clear,Signal Violation
+2,12,252,46.08607764,Low,Cloudy,Direction Violation
+2,13,197,23.57735237,Low,Clear,Direction Violation
+2,14,192,30.12233187,Low,Rainy,Speed Violation
+2,15,481,15.13741262,High,Rainy,Direction Violation
+2,16,248,19.45197624,Medium,Foggy,Others
+2,17,454,49.15083187,Low,Clear,Others
+2,18,475,45.75193594,Low,Rainy,Others
+2,19,203,39.67428815,Medium,Cloudy,Speed Violation
+2,20,425,54.7863363,Low,Clear,Others
+2,21,433,39.16332589,Medium,Rainy,Signal Violation
+2,22,191,33.3484,Low,Clear,Others
+2,23,362,27.01853732,High,Cloudy,Speed Violation
+3,0,214,57.02242529,Low,Rainy,Signal Violation
+3,1,363,14.13577308,High,Foggy,Direction Violation
+3,2,70,56.5443686,Low,Foggy,Others
+3,3,131,51.335733,Low,Clear,Direction Violation
+3,4,118,16.49649623,Low,Cloudy,Serious Violation
+3,5,180,38.24921788,Low,Rainy,Others
+3,6,136,53.32739909,Low,Cloudy,Direction Violation
+3,7,267,38.59045818,Medium,Rainy,Others
+3,8,470,55.35999108,Low,Clear,Signal Violation
+3,9,354,57.14919084,Low,Rainy,Others
+3,10,452,31.11922611,Medium,Cloudy,Others
+3,11,420,28.86568307,High,Cloudy,Others
+3,12,394,56.8160577,Low,Clear,Serious Violation
+3,13,390,43.75700306,Low,Cloudy,Signal Violation
+3,14,433,15.80113407,High,Rainy,Direction Violation
+3,15,445,12.11458746,High,Clear,Signal Violation
+3,16,494,38.23145255,Medium,Rainy,Others
+3,17,474,56.50854827,Low,Cloudy,Signal Violation
+3,18,210,52.21243512,Low,Clear,Signal Violation
+3,19,227,43.79238732,Low,Rainy,Others
+3,20,166,16.95579244,Low,Cloudy,Speed Violation
+3,21,245,22.71156919,Medium,Cloudy,Others
+3,22,432,53.77556133,Low,Foggy,Others
+3,23,376,19.14036183,High,Cloudy,Others
+4,0,135,23.92197041,Low,Rainy,Signal Violation
+4,1,338,16.48003256,High,Clear,Signal Violation
+4,2,130,43.80541157,Low,Foggy,Others
+4,3,201,57.19911527,Low,Cloudy,Others
+4,4,110,23.44840158,Low,Cloudy,Speed Violation
+4,5,110,33.77033039,Low,Cloudy,Signal Violation
+4,6,403,41.71698699,Low,Rainy,Speed Violation
+4,7,77,59.97331241,Low,Foggy,Signal Violation
+4,8,491,15.24040325,High,Rainy,Direction Violation
+4,9,92,34.92853998,Low,Foggy,Others
+4,10,218,29.256006,Medium,Clear,Speed Violation
+4,11,472,53.29100826,Low,Rainy,Others
+4,12,135,33.79838655,Low,Rainy,Others
+4,13,226,15.54887623,Medium,Clear,Others
+4,14,66,41.72120726,Low,Foggy,Signal Violation
+4,15,147,48.53903091,Low,Cloudy,Others
+4,16,247,10.14406258,Medium,Clear,Others
+4,17,147,52.94783427,Low,Cloudy,Others
+4,18,114,19.30115,Low,Cloudy,Others
+4,19,379,37.60346823,Medium,Clear,Speed Violation
+4,20,390,30.78987503,Medium,Foggy,Others
+4,21,54,45.98269083,Low,Cloudy,Serious Violation
+4,22,51,28.55808074,Low,Clear,Direction Violation
+4,23,71,53.48815883,Low,Rainy,Signal Violation
+5,0,161,46.52481805,Low,Rainy,Others
+5,1,106,42.38565855,Low,Rainy,Speed Violation
+5,2,115,49.81202978,Low,Clear,Speed Violation
+5,3,379,47.70115175,Low,Rainy,Direction Violation
+5,4,147,11.79693375,Low,Cloudy,Others
+5,5,193,29.73671769,Low,Rainy,Others
+5,6,417,56.54036487,Low,Rainy,Others
+5,7,484,16.28621345,High,Cloudy,Speed Violation
+5,8,174,46.85482752,Low,Rainy,Others
+5,9,216,58.72959057,Low,Cloudy,Others
+5,10,135,12.60993145,Low,Rainy,Direction Violation
+5,11,125,44.10969403,Low,Cloudy,Others
+5,12,393,33.40770707,Medium,Rainy,Others
+5,13,473,38.95876277,Medium,Cloudy,Others
+5,14,343,14.26706682,High,Clear,Serious Violation
+5,15,493,12.15034759,High,Cloudy,Signal Violation
+5,16,108,43.34333303,Low,Rainy,Speed Violation
+5,17,187,51.16547149,Low,Rainy,Others
+5,18,148,49.10076675,Low,Foggy,Serious Violation
+5,19,241,37.19028639,Medium,Cloudy,Others
+5,20,292,14.99334106,Medium,Clear,Direction Violation
+5,21,368,44.40222219,Low,Cloudy,Direction Violation
+5,22,98,22.09444418,Low,Cloudy,Others
+5,23,497,55.55343514,Low,Clear,Others
+6,0,81,51.91326798,Low,Cloudy,Signal Violation
+6,1,440,45.46914835,Low,Clear,Direction Violation
+6,2,326,57.44229779,Low,Clear,Others
+6,3,69,11.57109108,Low,Cloudy,Others
+6,4,203,46.81002125,Low,Cloudy,Others
+6,5,432,26.51213897,High,Rainy,Others
+6,6,117,55.30329428,Low,Rainy,Direction Violation
+6,7,415,23.33375983,High,Foggy,Others
+6,8,421,46.24282497,Low,Foggy,Signal Violation
+6,9,263,53.88235098,Low,Cloudy,Others
+6,10,192,12.08284092,Low,Clear,Others
+6,11,425,29.88237898,High,Foggy,Serious Violation
+6,12,281,48.1154516,Low,Cloudy,Signal Violation
+6,13,262,32.74594448,Medium,Foggy,Others
+6,14,128,23.36263149,Low,Clear,Others
+6,15,263,20.99026744,Medium,Cloudy,Serious Violation
+6,16,165,16.57591335,Low,Clear,Signal Violation
+6,17,141,52.85647799,Low,Cloudy,Speed Violation
+6,18,319,38.76777016,Medium,Foggy,Serious Violation
+6,19,460,13.81924725,High,Rainy,Others
+6,20,430,29.12901618,High,Foggy,Others
+6,21,217,28.38668254,Medium,Foggy,Signal Violation
+6,22,107,19.08695954,Low,Rainy,Others
+6,23,333,31.77538127,Medium,Rainy,Speed Violation
+7,0,75,26.60496827,Low,Cloudy,Others
+7,1,418,27.09018527,High,Cloudy,Others
+7,2,496,46.95132789,Low,Clear,Speed Violation
+7,3,115,21.16316928,Low,Clear,Others
+7,4,458,42.09299794,Low,Foggy,Others
+7,5,297,38.53248119,Medium,Rainy,Others
+7,6,303,38.40462562,Medium,Clear,Serious Violation
+7,7,436,43.15036731,Low,Foggy,Others
+7,8,93,37.41910181,Low,Rainy,Speed Violation
+7,9,146,53.96275574,Low,Cloudy,Others
+7,10,91,43.7790046,Low,Foggy,Speed Violation
+7,11,276,37.34816257,Medium,Cloudy,Direction Violation
+7,12,311,51.48815601,Low,Clear,Speed Violation
+7,13,216,40.30732825,Low,Clear,Others
+7,14,485,24.55721239,High,Rainy,Others
+7,15,328,20.35474591,High,Foggy,Signal Violation
+7,16,138,17.61638928,Low,Cloudy,Others
+7,17,428,54.97276063,Low,Rainy,Direction Violation
+7,18,227,45.50677159,Low,Clear,Signal Violation
+7,19,476,56.86892191,Low,Clear,Others
+7,20,452,40.16459029,Low,Foggy,Others
+7,21,246,33.67004407,Medium,Cloudy,Others
+7,22,356,12.98582445,High,Foggy,Others
+7,23,316,43.58211408,Low,Cloudy,Signal Violation
+8,0,317,39.11043799,Medium,Cloudy,Serious Violation
+8,1,123,59.51044468,Low,Foggy,Signal Violation
+8,2,57,21.95793889,Low,Rainy,Speed Violation
+8,3,457,36.53686776,Medium,Foggy,Others
+8,4,346,42.54786676,Low,Foggy,Serious Violation
+8,5,213,42.22955874,Low,Clear,Speed Violation
+8,6,134,38.06467715,Low,Clear,Others
+8,7,121,48.84640052,Low,Foggy,Serious Violation
+8,8,104,20.24906048,Low,Foggy,Others
+8,9,442,46.28136001,Low,Clear,Others
+8,10,96,40.98672857,Low,Cloudy,Others
+8,11,448,54.80375559,Low,Foggy,Direction Violation
+8,12,481,52.35972195,Low,Rainy,Signal Violation
+8,13,287,25.75735196,Medium,Rainy,Others
+8,14,153,23.81186625,Low,Rainy,Direction Violation
+8,15,259,59.08266619,Low,Foggy,Serious Violation
+8,16,91,36.36325905,Low,Cloudy,Signal Violation
+8,17,365,55.3210482,Low,Cloudy,Serious Violation
+8,18,317,18.19405119,High,Clear,Signal Violation
+8,19,435,42.14094574,Low,Foggy,Others
+8,20,312,50.49300937,Low,Cloudy,Others
+8,21,385,57.36976248,Low,Foggy,Speed Violation
+8,22,436,26.86700705,High,Clear,Direction Violation
+8,23,414,46.2490585,Low,Clear,Speed Violation
+9,0,308,36.94065045,Medium,Clear,Speed Violation
+9,1,332,13.0314463,High,Rainy,Signal Violation
+9,2,163,44.49998687,Low,Foggy,Others
+9,3,412,44.50482791,Low,Clear,Others
+9,4,89,56.53034024,Low,Foggy,Others
+9,5,466,34.86562231,Medium,Rainy,Serious Violation
+9,6,269,21.51254604,Medium,Rainy,Speed Violation
+9,7,178,12.22819117,Low,Clear,Others
+9,8,57,30.78210933,Low,Clear,Others
+9,9,150,25.095835,Low,Cloudy,Others
+9,10,465,48.0544153,Low,Foggy,Serious Violation
+9,11,429,27.71338824,High,Clear,Direction Violation
+9,12,225,57.45355982,Low,Cloudy,Serious Violation
+9,13,156,58.11551015,Low,Foggy,Serious Violation
+9,14,150,41.04542951,Low,Clear,Others
+9,15,309,56.43301435,Low,Cloudy,Signal Violation
+9,16,415,48.04271723,Low,Cloudy,Others
+9,17,295,37.34298205,Medium,Foggy,Direction Violation
+9,18,324,19.01539677,High,Cloudy,Others
+9,19,81,32.92989718,Low,Foggy,Signal Violation
+9,20,186,38.04372317,Low,Foggy,Signal Violation
+9,21,61,53.19807904,Low,Foggy,Serious Violation
+9,22,444,34.06666883,Medium,Rainy,Serious Violation
+9,23,351,54.88373363,Low,Cloudy,Others
+10,0,424,43.71744895,Low,Foggy,Serious Violation
+10,1,65,16.84995315,Low,Clear,Signal Violation
+10,2,178,59.74906847,Low,Rainy,Serious Violation
+10,3,112,36.36163304,Low,Rainy,Speed Violation
+10,4,158,29.59291482,Low,Cloudy,Others
+10,5,424,42.95568822,Low,Foggy,Serious Violation
+10,6,70,15.4446657,Low,Cloudy,Others
+10,7,207,41.82693234,Low,Rainy,Others
+10,8,318,34.91180002,Medium,Foggy,Signal Violation
+10,9,211,30.3337035,Medium,Clear,Serious Violation
+10,10,309,57.65100106,Low,Foggy,Speed Violation
+10,11,461,36.12698584,Medium,Rainy,Others
+10,12,151,20.95587397,Low,Clear,Others
+10,13,272,32.94817397,Medium,Foggy,Speed Violation
+10,14,108,55.96937023,Low,Clear,Speed Violation
+10,15,296,18.80477357,Medium,Clear,Others
+10,16,177,20.69785193,Low,Rainy,Others
+10,17,332,10.65147839,High,Clear,Others
+10,18,374,10.70950247,High,Cloudy,Serious Violation
+10,19,74,51.46958135,Low,Rainy,Others
+10,20,180,46.60613034,Low,Cloudy,Others
+10,21,402,27.75205282,High,Clear,Serious Violation
+10,22,245,44.91555786,Low,Cloudy,Others
+10,23,330,29.76029632,High,Foggy,Direction Violation
+11,0,453,57.6448398,Low,Clear,Others
+11,1,467,58.35263407,Low,Foggy,Serious Violation
+11,2,203,29.63968879,Medium,Cloudy,Signal Violation
+11,3,431,52.71109532,Low,Foggy,Others
+11,4,182,48.65445208,Low,Clear,Speed Violation
+11,5,276,25.49999686,Medium,Foggy,Speed Violation
+11,6,238,21.60199145,Medium,Cloudy,Others
+11,7,314,32.91173252,Medium,Cloudy,Direction Violation
+11,8,421,49.06744203,Low,Cloudy,Serious Violation
+11,9,483,58.00838924,Low,Clear,Others
+11,10,183,48.17895344,Low,Cloudy,Others
+11,11,260,52.76034925,Low,Clear,Others
+11,12,109,40.15321531,Low,Foggy,Others
+11,13,477,51.77039154,Low,Cloudy,Direction Violation
+11,14,426,49.2210429,Low,Foggy,Serious Violation
+11,15,444,28.8492771,High,Rainy,Speed Violation
+11,16,499,37.59951511,Medium,Foggy,Signal Violation
+11,17,480,50.2376561,Low,Rainy,Others
+11,18,413,12.30283671,High,Foggy,Others
+11,19,413,50.40396412,Low,Clear,Speed Violation
+11,20,262,18.8944062,Medium,Foggy,Others
+11,21,265,35.73418086,Medium,Clear,Signal Violation
+11,22,275,50.41377198,Low,Clear,Direction Violation
+11,23,180,22.69105391,Low,Cloudy,Signal Violation
+12,0,125,22.29037197,Low,Clear,Others
+12,1,335,30.13821992,Medium,Rainy,Signal Violation
+12,2,326,54.73213988,Low,Cloudy,Others
+12,3,205,10.02213907,Medium,Cloudy,Signal Violation
+12,4,297,55.06915483,Low,Foggy,Others
+12,5,267,17.69035123,Medium,Clear,Others
+12,6,239,59.5043188,Low,Clear,Speed Violation
+12,7,466,57.74234965,Low,Rainy,Others
+12,8,212,34.73375948,Medium,Foggy,Serious Violation
+12,9,229,35.63601239,Medium,Foggy,Speed Violation
+12,10,83,34.07746701,Low,Cloudy,Speed Violation
+12,11,90,41.77218228,Low,Cloudy,Serious Violation
+12,12,356,14.53608511,High,Cloudy,Others
+12,13,480,11.63089742,High,Rainy,Signal Violation
+12,14,387,12.88514642,High,Rainy,Speed Violation
+12,15,363,32.21826746,Medium,Cloudy,Others
+12,16,124,23.77739696,Low,Foggy,Serious Violation
+12,17,490,41.10197812,Low,Rainy,Others
+12,18,328,59.62211447,Low,Foggy,Others
+12,19,225,29.31615865,Medium,Foggy,Others
+12,20,433,38.69206271,Medium,Clear,Speed Violation
+12,21,199,30.7801948,Low,Cloudy,Others
+12,22,322,52.36358339,Low,Clear,Signal Violation
+12,23,374,55.11182017,Low,Cloudy,Others
+13,0,157,53.86778061,Low,Cloudy,Speed Violation
+13,1,188,58.71861193,Low,Foggy,Speed Violation
+13,2,399,11.37595926,High,Cloudy,Others
+13,3,320,51.99080811,Low,Foggy,Speed Violation
+13,4,396,47.58860865,Low,Foggy,Serious Violation
+13,5,468,21.43472047,High,Cloudy,Others
+13,6,338,57.81600467,Low,Foggy,Serious Violation
+13,7,261,17.40889641,Medium,Foggy,Others
+13,8,430,43.97749636,Low,Foggy,Signal Violation
+13,9,321,21.24451084,High,Rainy,Others
+13,10,467,31.56903244,Medium,Foggy,Others
+13,11,115,45.95799485,Low,Rainy,Others
+13,12,473,38.1662321,Medium,Rainy,Others
+13,13,297,31.37509157,Medium,Foggy,Signal Violation
+13,14,205,26.31692155,Medium,Foggy,Others
+13,15,96,51.98298279,Low,Rainy,Others
+13,16,472,17.19071752,High,Rainy,Signal Violation
+13,17,250,31.50514383,Medium,Foggy,Serious Violation
+13,18,197,55.18787859,Low,Foggy,Others
+13,19,173,52.29247752,Low,Cloudy,Signal Violation
+13,20,50,30.04708812,Low,Rainy,Others
+13,21,296,48.15541818,Low,Rainy,Signal Violation
+13,22,392,51.15804154,Low,Cloudy,Others
+13,23,177,54.4443712,Low,Rainy,Direction Violation
+14,0,240,37.22528845,Medium,Clear,Others
+14,1,116,20.2230443,Low,Rainy,Others
+14,2,53,22.76545383,Low,Cloudy,Others
+14,3,491,24.7847337,High,Clear,Others
+14,4,458,39.69012404,Medium,Foggy,Serious Violation
+14,5,352,11.64048121,High,Cloudy,Speed Violation
+14,6,343,41.80212344,Low,Cloudy,Others
+14,7,192,28.21771192,Low,Foggy,Others
+14,8,240,24.76209012,Medium,Cloudy,Signal Violation
+14,9,70,53.97482854,Low,Rainy,Others
+14,10,276,33.00011978,Medium,Foggy,Others
+14,11,362,14.75265228,High,Cloudy,Speed Violation
+14,12,166,51.3373384,Low,Foggy,Others
+14,13,486,12.38206287,High,Foggy,Serious Violation
+14,14,351,46.33746121,Low,Foggy,Others
+14,15,191,48.69531109,Low,Clear,Others
+14,16,450,27.6301303,High,Cloudy,Others
+14,17,88,51.23939281,Low,Clear,Speed Violation
+14,18,442,35.78297029,Medium,Cloudy,Signal Violation
+14,19,404,33.16468266,Medium,Rainy,Serious Violation
+14,20,301,12.27016407,High,Rainy,Others
+14,21,382,24.50145968,High,Rainy,Direction Violation
+14,22,256,56.55049854,Low,Cloudy,Others
+14,23,259,29.59119816,Medium,Foggy,Speed Violation
+15,0,164,37.33502603,Low,Foggy,Others
+15,1,274,36.60108395,Medium,Clear,Others
+15,2,183,39.52155449,Low,Clear,Others
+15,3,300,13.06654778,Medium,Rainy,Serious Violation
+15,4,268,28.10881274,Medium,Clear,Others
+15,5,456,46.15641369,Low,Cloudy,Others
+15,6,492,20.02801255,High,Cloudy,Direction Violation
+15,7,140,20.17891888,Low,Clear,Others
+15,8,403,10.50453033,High,Clear,Serious Violation
+15,9,425,31.87409633,Medium,Clear,Serious Violation
+15,10,95,54.13671903,Low,Clear,Speed Violation
+15,11,87,12.59504718,Low,Rainy,Others
+15,12,191,19.55593547,Low,Rainy,Others
+15,13,149,25.50422692,Low,Clear,Others
+15,14,377,46.58623683,Low,Cloudy,Direction Violation
+15,15,239,42.03177964,Low,Rainy,Serious Violation
+15,16,84,30.79719523,Low,Cloudy,Speed Violation
+15,17,196,47.95344696,Low,Foggy,Others
+15,18,79,40.48155058,Low,Cloudy,Others
+15,19,383,54.80203998,Low,Clear,Others
+15,20,133,50.90133746,Low,Foggy,Others
+15,21,418,22.6406803,High,Rainy,Direction Violation
+15,22,330,23.57192888,High,Rainy,Direction Violation
+15,23,473,16.26782379,High,Foggy,Serious Violation
+16,0,393,26.84823629,High,Cloudy,Others
+16,1,319,59.97719594,Low,Rainy,Speed Violation
+16,2,203,30.28755843,Medium,Clear,Others
+16,3,151,21.02442173,Low,Foggy,Others
+16,4,264,48.12414422,Low,Clear,Direction Violation
+16,5,199,37.12355017,Low,Foggy,Others
+16,6,481,17.48007248,High,Rainy,Speed Violation
+16,7,132,29.03448406,Low,Cloudy,Speed Violation
+16,8,159,30.72348578,Low,Foggy,Others
+16,9,484,47.69148503,Low,Foggy,Others
+16,10,436,11.03356844,High,Clear,Others
+16,11,475,23.45098234,High,Rainy,Direction Violation
+16,12,324,35.87981507,Medium,Clear,Serious Violation
+16,13,250,23.44233712,Medium,Rainy,Others
+16,14,333,41.42170237,Low,Clear,Others
+16,15,222,34.09337396,Medium,Foggy,Others
+16,16,376,28.08551274,High,Clear,Serious Violation
+16,17,255,57.46043134,Low,Cloudy,Serious Violation
+16,18,112,41.60797496,Low,Rainy,Direction Violation
+16,19,122,16.49706861,Low,Rainy,Others
+16,20,300,38.00458487,Medium,Foggy,Speed Violation
+16,21,173,49.03659266,Low,Rainy,Others
+16,22,424,45.42448487,Low,Cloudy,Others
+16,23,170,18.60446146,Low,Clear,Serious Violation
+17,0,324,58.62099995,Low,Foggy,Direction Violation
+17,1,480,32.44068229,Medium,Cloudy,Others
+17,2,447,17.95125019,High,Rainy,Serious Violation
+17,3,169,19.00978771,Low,Rainy,Others
+17,4,471,14.91174961,High,Cloudy,Serious Violation
+17,5,486,50.17590542,Low,Clear,Speed Violation
+17,6,366,16.10152472,High,Clear,Direction Violation
+17,7,213,16.25626286,Medium,Foggy,Speed Violation
+17,8,473,52.52358074,Low,Rainy,Others
+17,9,335,27.23020422,High,Cloudy,Others
+17,10,314,11.54289522,High,Clear,Others
+17,11,369,12.59476498,High,Foggy,Others
+17,12,210,17.10852234,Medium,Rainy,Direction Violation
+17,13,425,20.6696674,High,Rainy,Others
+17,14,357,43.25730971,Low,Foggy,Others
+17,15,138,17.866314,Low,Foggy,Signal Violation
+17,16,191,15.94371956,Low,Clear,Others
+17,17,252,48.23595707,Low,Cloudy,Serious Violation
+17,18,358,43.55276419,Low,Rainy,Others
+17,19,276,31.76621107,Medium,Cloudy,Others
+17,20,492,37.46548857,Medium,Rainy,Signal Violation
+17,21,383,25.59920102,High,Rainy,Others
+17,22,271,34.12502101,Medium,Cloudy,Direction Violation
+17,23,90,35.33363245,Low,Foggy,Others
+18,0,245,29.36186356,Medium,Clear,Signal Violation
+18,1,117,55.32861053,Low,Rainy,Direction Violation
+18,2,313,10.80309325,High,Foggy,Others
+18,3,51,49.10856315,Low,Rainy,Others
+18,4,410,16.21914156,High,Clear,Others
+18,5,174,49.87736803,Low,Rainy,Direction Violation
+18,6,159,40.79559578,Low,Clear,Serious Violation
+18,7,135,52.16390455,Low,Clear,Speed Violation
+18,8,474,14.87571628,High,Rainy,Others
+18,9,169,37.9490317,Low,Rainy,Direction Violation
+18,10,176,35.05439401,Low,Clear,Others
+18,11,304,45.30965915,Low,Foggy,Signal Violation
+18,12,232,36.71452759,Medium,Cloudy,Others
+18,13,65,37.03672836,Low,Clear,Direction Violation
+18,14,111,31.47979718,Low,Rainy,Others
+18,15,418,25.4417212,High,Rainy,Direction Violation
+18,16,481,34.11321806,Medium,Foggy,Others
+18,17,207,15.92461794,Medium,Cloudy,Others
+18,18,317,58.07566695,Low,Clear,Signal Violation
+18,19,84,45.72053818,Low,Clear,Signal Violation
+18,20,316,57.62335583,Low,Cloudy,Serious Violation
+18,21,113,21.33636912,Low,Clear,Others
+18,22,99,53.96705101,Low,Cloudy,Others
+18,23,304,50.43949923,Low,Rainy,Speed Violation
+19,0,198,43.85762062,Low,Cloudy,Others
+19,1,374,41.2514593,Low,Clear,Direction Violation
+19,2,353,25.82748326,High,Cloudy,Others
+19,3,325,50.82053925,Low,Foggy,Others
+19,4,406,35.07577307,Medium,Rainy,Others
+19,5,221,13.54457879,Medium,Rainy,Direction Violation
+19,6,466,25.64315804,High,Cloudy,Others
+19,7,250,56.76485493,Low,Clear,Others
+19,8,494,52.53401303,Low,Foggy,Signal Violation
+19,9,442,59.0952849,Low,Rainy,Others
+19,10,373,41.39966913,Low,Rainy,Others
+19,11,84,22.37550366,Low,Clear,Direction Violation
+19,12,265,18.14075248,Medium,Clear,Serious Violation
+19,13,114,19.34572203,Low,Foggy,Direction Violation
+19,14,57,10.98978292,Low,Cloudy,Serious Violation
+19,15,350,29.53410555,High,Clear,Serious Violation
+19,16,392,19.57138402,High,Cloudy,Direction Violation
+19,17,480,30.58277302,Medium,Foggy,Direction Violation
+19,18,473,56.74972159,Low,Cloudy,Others
+19,19,381,31.52701048,Medium,Rainy,Speed Violation
+19,20,487,53.89922485,Low,Cloudy,Direction Violation
+19,21,125,40.27523833,Low,Foggy,Serious Violation
+19,22,223,22.35657773,Medium,Foggy,Speed Violation
+19,23,96,27.79273796,Low,Foggy,Serious Violation
+20,0,64,14.19597679,Low,Cloudy,Signal Violation
+20,1,410,26.67312968,High,Rainy,Others
+20,2,196,43.87704728,Low,Clear,Serious Violation
+20,3,75,13.60555465,Low,Rainy,Direction Violation
+20,4,357,20.27007042,High,Cloudy,Serious Violation
+20,5,142,29.07205207,Low,Cloudy,Others
+20,6,455,59.10247685,Low,Clear,Serious Violation
+20,7,281,49.24309115,Low,Cloudy,Signal Violation
+20,8,70,46.67433732,Low,Foggy,Others
+20,9,356,15.80954783,High,Foggy,Others
+20,10,87,49.04979468,Low,Foggy,Signal Violation
+20,11,325,49.26344058,Low,Foggy,Serious Violation
+20,12,206,40.05513478,Low,Foggy,Others
+20,13,228,59.5180891,Low,Cloudy,Speed Violation
+20,14,181,26.2626953,Low,Clear,Speed Violation
+20,15,360,57.06362241,Low,Clear,Others
+20,16,397,55.73655575,Low,Foggy,Serious Violation
+20,17,77,10.57403299,Low,Cloudy,Serious Violation
+20,18,309,32.50582632,Medium,Rainy,Serious Violation
+20,19,455,58.85521165,Low,Rainy,Others
+20,20,125,15.15606812,Low,Cloudy,Signal Violation
+20,21,478,37.38923472,Medium,Foggy,Speed Violation
+20,22,116,58.94787535,Low,Clear,Others
+20,23,391,37.77477121,Medium,Cloudy,Others
+21,0,243,19.49076515,Medium,Rainy,Serious Violation
+21,1,211,39.1091615,Medium,Rainy,Others
+21,2,396,20.2220287,High,Rainy,Serious Violation
+21,3,488,35.98521314,Medium,Foggy,Others
+21,4,410,13.7021109,High,Rainy,Serious Violation
+21,5,306,40.27413346,Low,Cloudy,Direction Violation
+21,6,121,35.83949696,Low,Cloudy,Signal Violation
+21,7,136,47.00806844,Low,Rainy,Direction Violation
+21,8,471,41.53502356,Low,Cloudy,Signal Violation
+21,9,311,37.48031343,Medium,Rainy,Speed Violation
+21,10,263,44.48894246,Low,Rainy,Direction Violation
+21,11,202,17.19709568,Medium,Clear,Serious Violation
+21,12,259,39.76798306,Medium,Foggy,Signal Violation
+21,13,450,18.60553014,High,Foggy,Others
+21,14,110,56.27611039,Low,Clear,Others
+21,15,317,13.41670524,High,Clear,Signal Violation
+21,16,311,31.51873748,Medium,Foggy,Others
+21,17,267,44.78987388,Low,Rainy,Serious Violation
+21,18,332,32.90111058,Medium,Rainy,Others
+21,19,185,14.60476266,Low,Foggy,Signal Violation
+21,20,429,37.66895081,Medium,Rainy,Serious Violation
+21,21,411,42.08159544,Low,Clear,Signal Violation
+21,22,498,45.18961555,Low,Rainy,Speed Violation
+21,23,490,28.66299072,High,Rainy,Speed Violation
+22,0,142,38.18299855,Low,Cloudy,Others
+22,1,158,32.53432375,Low,Cloudy,Direction Violation
+22,2,290,43.60280194,Low,Cloudy,Serious Violation
+22,3,404,39.17784837,Medium,Rainy,Others
+22,4,473,36.28781098,Medium,Foggy,Speed Violation
+22,5,191,22.47621834,Low,Clear,Signal Violation
+22,6,340,10.10092589,High,Rainy,Signal Violation
+22,7,481,18.70408377,High,Foggy,Others
+22,8,286,15.85330207,Medium,Rainy,Speed Violation
+22,9,389,32.45423725,Medium,Clear,Others
+22,10,361,40.61290754,Low,Rainy,Others
+22,11,226,20.65425043,Medium,Clear,Others
+22,12,190,56.9528548,Low,Rainy,Direction Violation
+22,13,238,10.33410646,Medium,Clear,Signal Violation
+22,14,98,48.61505076,Low,Rainy,Others
+22,15,351,41.26023848,Low,Clear,Speed Violation
+22,16,418,28.67774005,High,Cloudy,Serious Violation
+22,17,239,12.52444722,Medium,Rainy,Direction Violation
+22,18,185,41.37432859,Low,Rainy,Signal Violation
+22,19,92,29.28067564,Low,Foggy,Others
+22,20,453,56.81335697,Low,Foggy,Direction Violation
+22,21,429,37.09950374,Medium,Clear,Serious Violation
+22,22,402,56.98257556,Low,Rainy,Others
+22,23,139,21.02418467,Low,Clear,Others
+23,0,344,46.28629552,Low,Cloudy,Others
+23,1,390,40.86245104,Low,Foggy,Others
+23,2,294,46.97041149,Low,Clear,Direction Violation
+23,3,482,20.7333932,High,Clear,Direction Violation
+23,4,241,43.24972581,Low,Foggy,Signal Violation
+23,5,367,34.90201965,Medium,Rainy,Others
+23,6,155,47.14124875,Low,Clear,Others
+23,7,412,26.35223221,High,Foggy,Signal Violation
+23,8,359,54.50285127,Low,Rainy,Others
+23,9,431,14.21506573,High,Cloudy,Speed Violation
+23,10,282,50.35946594,Low,Foggy,Others
+23,11,314,53.06598129,Low,Clear,Signal Violation
+23,12,393,50.86261557,Low,Cloudy,Speed Violation
+23,13,86,35.63631971,Low,Rainy,Others
+23,14,354,31.919249,Medium,Rainy,Serious Violation
+23,15,90,59.81311433,Low,Foggy,Others
+23,16,66,21.45859756,Low,Foggy,Others
+23,17,393,37.34379829,Medium,Foggy,Others
+23,18,326,43.53377627,Low,Rainy,Serious Violation
+23,19,356,45.04338179,Low,Cloudy,Others
+23,20,108,20.20123329,Low,Rainy,Serious Violation
+23,21,472,42.69970462,Low,Clear,Direction Violation
+23,22,232,50.91847832,Low,Rainy,Speed Violation
+23,23,90,12.50092884,Low,Clear,Speed Violation
+24,0,88,55.57606467,Low,Cloudy,Signal Violation
+24,1,446,11.47520276,High,Foggy,Others
+24,2,241,27.79855162,Medium,Foggy,Others
+24,3,316,10.79065981,High,Rainy,Serious Violation
+24,4,196,13.85725843,Low,Foggy,Others
+24,5,444,55.55841426,Low,Cloudy,Signal Violation
+24,6,382,27.74304154,High,Foggy,Signal Violation
+24,7,176,31.23857652,Low,Rainy,Speed Violation
+24,8,95,20.76721907,Low,Cloudy,Signal Violation
+24,9,94,39.85478851,Low,Clear,Others
+24,10,50,39.74016073,Low,Rainy,Others
+24,11,217,28.61001959,Medium,Clear,Serious Violation
+24,12,157,26.65174359,Low,Cloudy,Others
+24,13,68,54.24821541,Low,Rainy,Others
+24,14,381,29.16421198,High,Rainy,Direction Violation
+24,15,121,34.67504961,Low,Cloudy,Signal Violation
+24,16,494,24.16523812,High,Foggy,Serious Violation
+24,17,158,49.33847517,Low,Rainy,Signal Violation
+24,18,317,29.87240784,High,Rainy,Direction Violation
+24,19,494,35.68055233,Medium,Clear,Others
+24,20,289,22.6678585,Medium,Foggy,Serious Violation
+24,21,466,59.38297962,Low,Clear,Others
+24,22,350,24.57478705,High,Clear,Signal Violation
+24,23,139,48.53712655,Low,Foggy,Serious Violation
+25,0,152,31.37478252,Low,Foggy,Speed Violation
+25,1,299,20.31087025,Medium,Cloudy,Others
+25,2,57,49.9859382,Low,Foggy,Serious Violation
+25,3,202,26.68033945,Medium,Rainy,Others
+25,4,396,53.25966737,Low,Foggy,Others
+25,5,223,55.76285925,Low,Cloudy,Serious Violation
+25,6,392,52.99119177,Low,Cloudy,Signal Violation
+25,7,207,11.75039574,Medium,Cloudy,Direction Violation
+25,8,480,49.36866725,Low,Foggy,Signal Violation
+25,9,264,30.56697332,Medium,Foggy,Serious Violation
+25,10,226,53.68614601,Low,Clear,Serious Violation
+25,11,224,41.89771313,Low,Clear,Direction Violation
+25,12,389,51.68215671,Low,Rainy,Serious Violation
+25,13,387,34.97158849,Medium,Clear,Others
+25,14,195,36.75127523,Low,Rainy,Direction Violation
+25,15,499,17.21938161,High,Cloudy,Serious Violation
+25,16,373,49.19936793,Low,Clear,Direction Violation
+25,17,210,30.96948058,Medium,Foggy,Others
+25,18,176,35.00400591,Low,Clear,Direction Violation
+25,19,469,49.2548857,Low,Rainy,Serious Violation
+25,20,131,39.94227,Low,Clear,Serious Violation
+25,21,196,20.05493637,Low,Cloudy,Speed Violation
+25,22,288,39.51163296,Medium,Foggy,Signal Violation
+25,23,461,30.3816429,Medium,Rainy,Others
+26,0,473,33.4762771,Medium,Foggy,Others
+26,1,133,11.41556372,Low,Foggy,Signal Violation
+26,2,162,20.50146748,Low,Rainy,Others
+26,3,274,24.05190407,Medium,Foggy,Serious Violation
+26,4,381,45.64800039,Low,Foggy,Serious Violation
+26,5,427,10.57462366,High,Clear,Others
+26,6,292,30.43886306,Medium,Foggy,Others
+26,7,192,56.20134352,Low,Foggy,Direction Violation
+26,8,90,15.59403083,Low,Foggy,Serious Violation
+26,9,472,35.82121941,Medium,Foggy,Others
+26,10,307,49.32611912,Low,Rainy,Speed Violation
+26,11,496,57.12656538,Low,Cloudy,Others
+26,12,334,47.33883198,Low,Clear,Others
+26,13,154,46.02827743,Low,Foggy,Others
+26,14,251,51.32440451,Low,Foggy,Speed Violation
+26,15,499,32.31006105,Medium,Rainy,Speed Violation
+26,16,356,50.29222663,Low,Cloudy,Serious Violation
+26,17,380,10.39822024,High,Foggy,Others
+26,18,315,56.22805277,Low,Rainy,Others
+26,19,447,32.16532548,Medium,Clear,Others
+26,20,259,37.66900939,Medium,Clear,Signal Violation
+26,21,100,22.74411245,Low,Foggy,Others
+26,22,167,47.12654164,Low,Foggy,Serious Violation
+26,23,250,13.83179032,Medium,Cloudy,Direction Violation
+27,0,426,53.63179013,Low,Cloudy,Direction Violation
+27,1,88,51.40584145,Low,Foggy,Others
+27,2,77,20.80300581,Low,Rainy,Others
+27,3,308,50.46621991,Low,Cloudy,Direction Violation
+27,4,133,49.31788665,Low,Foggy,Others
+27,5,204,41.61082989,Low,Cloudy,Others
+27,6,166,28.67600884,Low,Foggy,Speed Violation
+27,7,51,23.57493771,Low,Clear,Others
+27,8,142,21.58917951,Low,Foggy,Direction Violation
+27,9,215,25.93044814,Medium,Clear,Serious Violation
+27,10,436,55.17792217,Low,Cloudy,Others
+27,11,449,13.8820388,High,Foggy,Serious Violation
+27,12,399,51.44356381,Low,Cloudy,Others
+27,13,345,27.44450375,High,Clear,Others
+27,14,307,36.0799698,Medium,Foggy,Others
+27,15,130,49.72428168,Low,Cloudy,Signal Violation
+27,16,474,54.21882735,Low,Clear,Speed Violation
+27,17,317,27.239071,High,Cloudy,Speed Violation
+27,18,468,33.09217406,Medium,Rainy,Direction Violation
+27,19,284,30.72580324,Medium,Clear,Direction Violation
+27,20,370,10.66255168,High,Clear,Others
+27,21,360,24.79714444,High,Clear,Others
+27,22,350,32.95946169,Medium,Foggy,Others
+27,23,406,30.55468044,Medium,Foggy,Others
+28,0,262,46.09646138,Low,Foggy,Others
+28,1,111,29.24018086,Low,Rainy,Others
+28,2,98,34.46882245,Low,Rainy,Others
+28,3,176,31.48042961,Low,Clear,Others
+28,4,272,47.03130744,Low,Rainy,Others
+28,5,458,53.14861995,Low,Cloudy,Speed Violation
+28,6,328,36.59445395,Medium,Clear,Signal Violation
+28,7,457,49.47160971,Low,Clear,Signal Violation
+28,8,343,24.8393341,High,Cloudy,Others
+28,9,333,37.06848051,Medium,Clear,Signal Violation
+28,10,326,27.26149768,High,Rainy,Speed Violation
+28,11,487,30.71004628,Medium,Foggy,Speed Violation
+28,12,156,46.62069324,Low,Cloudy,Others
+28,13,195,54.08312412,Low,Rainy,Direction Violation
+28,14,469,16.07476955,High,Cloudy,Others
+28,15,148,41.73196282,Low,Cloudy,Others
+28,16,478,39.10719038,Medium,Clear,Speed Violation
+28,17,424,15.92075196,High,Clear,Others
+28,18,122,20.59471652,Low,Rainy,Serious Violation
+28,19,486,25.55012474,High,Cloudy,Others
+28,20,171,18.34655354,Low,Clear,Serious Violation
+28,21,79,22.18647413,Low,Clear,Others
+28,22,237,23.38003994,Medium,Cloudy,Others
+28,23,413,26.78369165,High,Rainy,Direction Violation
+29,0,403,47.46952264,Low,Rainy,Direction Violation
+29,1,337,38.59561019,Medium,Cloudy,Signal Violation
+29,2,244,59.3123336,Low,Rainy,Serious Violation
+29,3,205,30.73679135,Medium,Clear,Others
+29,4,221,47.69325369,Low,Cloudy,Direction Violation
+29,5,384,53.57342107,Low,Clear,Signal Violation
+29,6,90,43.94892465,Low,Foggy,Signal Violation
+29,7,112,30.59323702,Low,Foggy,Serious Violation
+29,8,72,47.67973154,Low,Rainy,Serious Violation
+29,9,409,20.18335689,High,Foggy,Speed Violation
+29,10,124,26.37760826,Low,Clear,Others
+29,11,97,37.33426275,Low,Foggy,Speed Violation
+29,12,209,38.77046936,Medium,Clear,Speed Violation
+29,13,362,11.10707377,High,Rainy,Direction Violation
+29,14,167,57.25570944,Low,Rainy,Others
+29,15,149,44.83136356,Low,Clear,Others
+29,16,429,34.78518751,Medium,Foggy,Serious Violation
+29,17,466,56.65636172,Low,Rainy,Signal Violation
+29,18,457,31.95477826,Medium,Cloudy,Direction Violation
+29,19,216,59.02177851,Low,Rainy,Serious Violation
+29,20,339,35.61423786,Medium,Foggy,Direction Violation
+29,21,489,15.7142885,High,Cloudy,Others
+29,22,205,48.24004862,Low,Foggy,Speed Violation
+29,23,470,43.94488625,Low,Clear,Signal Violation
+30,0,56,48.64933607,Low,Cloudy,Serious Violation
+30,1,245,57.57210144,Low,Foggy,Others
+30,2,470,48.82446513,Low,Cloudy,Speed Violation
+30,3,105,40.56683011,Low,Foggy,Others
+30,4,370,52.86544512,Low,Cloudy,Others
+30,5,242,43.66232197,Low,Foggy,Direction Violation
+30,6,96,30.40595284,Low,Clear,Others
+30,7,197,54.28098821,Low,Cloudy,Others
+30,8,324,21.09502304,High,Cloudy,Direction Violation
+30,9,206,45.73206375,Low,Cloudy,Speed Violation
+30,10,251,54.07817275,Low,Cloudy,Others
+30,11,493,46.56582599,Low,Clear,Others
+30,12,451,44.86377095,Low,Cloudy,Serious Violation
+30,13,468,47.6319147,Low,Rainy,Serious Violation
+30,14,476,33.25276242,Medium,Clear,Speed Violation
+30,15,175,53.70853411,Low,Rainy,Speed Violation
+30,16,444,20.17182376,High,Cloudy,Signal Violation
+30,17,354,16.3693208,High,Foggy,Others
+30,18,418,24.27543901,High,Rainy,Others
+30,19,343,36.57886984,Medium,Cloudy,Others
+30,20,113,35.52808977,Low,Rainy,Signal Violation
+30,21,374,51.02993788,Low,Cloudy,Direction Violation
+30,22,441,30.22843282,Medium,Cloudy,Others
+30,23,467,34.21722131,Medium,Cloudy,Signal Violation
+31,0,225,10.66838416,Medium,Foggy,Others
+31,1,165,30.48696182,Low,Rainy,Speed Violation
+31,2,489,42.38871165,Low,Clear,Others
+31,3,253,10.77541653,Medium,Clear,Others
+31,4,370,24.04409826,High,Clear,Signal Violation
+31,5,80,20.39781796,Low,Clear,Speed Violation
+31,6,437,12.09927145,High,Cloudy,Direction Violation
+31,7,162,33.9630045,Low,Rainy,Signal Violation
+31,8,414,19.08616466,High,Rainy,Serious Violation
+31,9,483,47.15407698,Low,Foggy,Others
+31,10,374,52.39639419,Low,Rainy,Direction Violation
+31,11,463,37.27925913,Medium,Rainy,Others
+31,12,425,59.08536713,Low,Rainy,Others
+31,13,393,32.52392857,Medium,Foggy,Others
+31,14,492,35.66841051,Medium,Clear,Serious Violation
+31,15,116,59.4608877,Low,Rainy,Signal Violation
+31,16,124,21.5774218,Low,Foggy,Speed Violation
+31,17,94,57.12729698,Low,Foggy,Serious Violation
+31,18,309,12.14187776,High,Cloudy,Others
+31,19,203,32.31934451,Medium,Foggy,Signal Violation
+31,20,204,13.50017561,Medium,Clear,Speed Violation
+31,21,479,46.46173715,Low,Rainy,Signal Violation
+31,22,412,40.42044679,Low,Foggy,Others
+31,23,497,45.33171317,Low,Clear,Serious Violation
